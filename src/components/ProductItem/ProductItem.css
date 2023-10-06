@@ -4,15 +4,15 @@
     border: 1px solid var(--tg-theme-button-color);
     padding: 15px;
     width: 170px;
-    background: gold;
+    background: #1c55ff;
     border-radius: 15%;
-    color: darkblue;
+    color: #33ccff;
 }
 
 
 .img {
     width: 100%;
-    background: #478af5;
+    background: #1c55ff;
     height: 100px;
     margin: 0 auto;
     background: var(--tg-theme-button-color);
@@ -23,8 +23,8 @@
 
 .add-btn {
     width: 100%;
-    background: #6c72ff;
-    color: black;
+    background: #33ccff;
+    color: #0d33b3;
     border-radius: 10%;
     border-radius: 15%;
 }
