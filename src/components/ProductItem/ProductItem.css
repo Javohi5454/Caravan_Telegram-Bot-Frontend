@@ -1,0 +1,30 @@
+.product {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid var(--tg-theme-button-color);
+    padding: 15px;
+    width: 170px;
+    background: gold;
+    border-radius: 15%;
+    color: darkblue;
+}
+
+
+.img {
+    width: 100%;
+    background: #478af5;
+    height: 100px;
+    margin: 0 auto;
+    background: var(--tg-theme-button-color);
+}
+.description {
+    font-size: 0.8em;
+}
+
+.add-btn {
+    width: 100%;
+    background: #6c72ff;
+    color: black;
+    border-radius: 10%;
+    border-radius: 15%;
+}
