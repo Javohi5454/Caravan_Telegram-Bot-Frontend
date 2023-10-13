@@ -42,8 +42,3 @@
     margin-left: 5px;
     transition: all .4s ease 0s;
 }
-.add-btn:hover {
-    background: #fff;
-    color: #478af5;
-    border: 1px solid #478af5;
-}
